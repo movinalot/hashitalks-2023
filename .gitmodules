@@ -1,0 +1,3 @@
+[submodule "azure"]
+	path = azure
+	url = https://github.com/movinalot/azure
