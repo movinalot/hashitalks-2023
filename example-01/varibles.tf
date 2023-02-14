@@ -1,7 +1,7 @@
 variable "resource_group_name" {
   description = "resource_group_name"
   type        = string
-  default     = "jmcdonough-example-01"
+  default     = "hashitalks-example-01"
 }
 
 variable "resource_group_location" {
