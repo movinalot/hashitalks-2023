@@ -1,6 +1,6 @@
 locals {
 
-  # Bastion Host attributes
+  # Bastion Host IP attributes
   bastion_host = {
     support              = true
     ip_name              = "pip_bastion"
